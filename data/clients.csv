@@ -1,0 +1,13 @@
+client_id,client_name,market,start_date,is_active
+C100,Belgu,Belgium,1/15/2022,TRUE
+C101,NPC,Netherlands,3/10/2022,TRUE
+C102,AFK,France,5/20/2022,TRUE
+C103,D-PAH,Germany,7/5/2022,TRUE
+C104,PA-tato,UK,9/12/2022,TRUE
+C105,EFFES,Spain,1/8/2023,TRUE
+C106,AN-SAW,Italy,3/17/2023,TRUE
+C107,E-PAW,Belgium,5/22/2023,TRUE
+C108,Photo-Newsy,Belgium,7/14/2023,TRUE
+C109,NPC-Freelancey,Netherlands,9/30/2023,TRUE
+C110,Routers,UK,11/15/2023,TRUE
+C111,Gett-E,US,1/20/2024,TRUE
