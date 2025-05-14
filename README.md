@@ -16,3 +16,6 @@ For at kunne løse den her opgave har jeg sat en PostgresSQL server up lokalt. D
 - Predictive Client Value: Prøvede i første omgang med monthly_prediction at bruge historiske gennemsnit og gange det for at få en forecast, men der var for lidt data til det rigtig gave så meget værdi. Derefter forsøgte jeg med en med en mere data drevet approach, hvor jeg tog den måndelig værdi og brugte win rates og case value for at få nogle fordelingsvægte at gå ud fra. 
 ### Market insights
 - Market trends: Her lavede jeg en simple chart som du kan se i graferne hvor jeg udregnede nogle rates til sammenligning. Mangler en tidsdimension og måske en linje chart men der var bare ikke rigtig nok data til at jeg synes det ville se særlig godt ud. 
+### Agent (User) insights
+- Agent Efficiency and Effectiveness: her lavede jeg en model der udregnede win rates og gennmesnitlig løsningsdage for agenterne.
+- Agent Performance Over Time: Her forsgøte jeg igennem modellen agent_performance_patterens at lave en model der kunne tracke ugelig performance og en ranking, men lavede ikke en graf på det. I stedet tog jeg den rå data ind og lavede en månedlig graf istedet der kunne tracke performance mellem agenter og svar til om der er nogle mønstre er: 
