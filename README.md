@@ -6,7 +6,8 @@ A highly exciting and challenging case with well-structured questions!
 - **data**: The files provided in the case  
 - **models**: The models I generated  
 - **visuals**: Graphs based on the data and models  
-
+- **output_files**: Files related to the case as a csv. file
+  
 ## Process  
 To solve this case, I set up a local PostgreSQL server. I then queried the models using pgAdmin and established a connection to Power BI, where I built the graphs based on the models and underlying data.  
 
