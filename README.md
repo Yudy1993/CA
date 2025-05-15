@@ -12,8 +12,6 @@ Fell free to include graphs.
 
 You must use the PostgreSQL dialect.
 
-Don't hesitate to reach out if questions arise.
-
 ## Analysis Objectives (SQL Queries):
 ### Case insights
 - Case Resolution Time - Measure the time it takes to resolve cases.
